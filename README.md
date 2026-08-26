@@ -22,7 +22,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 **Frameworks**  
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -45,30 +44,11 @@
 
 ---
 
-### 📊 GitHub Analytics
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=zadaalmer222&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=zadaalmer222&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=zadaalmer222&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zadaalmer222&show_icons=true&theme=tokyonight&hide_border=true" alt="Zada's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zadaalmer222&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zadaalmer222&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-
-<a href="https://aimanwafii.my.id">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31nmfqq5q5557pliglc6qap3rjhq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" height="300"/>
-</a> 
-
-<a href="https://aimanwafii.my.id">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31nmfqq5q5557pliglc6qap3rjhq" height="300"/>
-</a>
-
-</div>
 
 ---
 
@@ -78,10 +58,10 @@
   <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/your-profile">
+  <a href="https://linkedin.com/in/Zada-Almer-Dzaky">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/your-username">
+  <a href="https://instagram.com/terkadangsuki">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
