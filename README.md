@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Front-End Developer & Web Enthusiast from Indonesia</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=61DAFB&center=true&vcenter=true&width=435&lines=SMK+Student+%7C+Front-End+Learner;Building+Interactive+%26+Clean+UI;HTML%2C+CSS%2C+JS%2C+Laravel%2C+Python" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=61DAFB&center=true&vcenter=true&width=435&lines=SMK+Student+%7C+Front-End+Learner;Building+Interactive+%26+Clean+UI;HTML%2C+CSS%2C+JS%2C+Python" alt="Typing SVG" />
 </p>
 
 ---
