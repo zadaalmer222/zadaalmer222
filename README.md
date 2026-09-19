@@ -12,6 +12,7 @@
 * 🎓 Currently a student at **SMK Telkom Sidoarjo**, focusing on web development and modern UI/UX design.
 * 💻 Passionate about crafting responsive, user-friendly front-end interfaces and mastering modern web frameworks.
 * 🎯 Goal: Becoming a professional **Front-End Developer**.
+* I LIKE JKT48!
 
 ---
 
